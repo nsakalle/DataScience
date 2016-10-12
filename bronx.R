@@ -6,7 +6,7 @@
 #install the gdata and plyr packages and load in to R.
 library(plyr)
 library(gdata)
-setwd("C:\\Users\\a0224623\\Documents\\Personal\\SMU 2016\\Intro to Data Science\\Unit 6")
+setwd("C:\\Users\\kaitlin\\Documents\\Personal\\SMU 2016\\Intro to Data Science\\Unit 6")
 
 ## You need a perl interpreter to do this on Windows.
 ## It's automatic in Mac
